@@ -1,0 +1,26 @@
+{
+  "name": "modern-core",
+  "description": "A set of core class used in Modern projects",
+  "authors": [
+    "Raphael Dhainaut <raphaeldhainaut@outlook.com>"
+  ],
+  "keywords": [
+    "ts",
+    "typescript",
+    "core",
+    "modern",
+    "modern-web"
+  ],
+  "license": "http://modernweb.azurewebsites.net/license",
+  "homepage": "http://modernweb.azurewebsites.net/",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "main": [
+    "modernCore.js"
+  ],
+  "ignore": [
+    "**/.*"
+  ]
+}
